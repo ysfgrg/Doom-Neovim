@@ -10,7 +10,6 @@ require "statusline"
 require "top-bufferline"
 require "telescope-conf"
 require "dashboard-conf"
-require "general"
 require('onedark').setup()
 require("which-key").setup {}
 
